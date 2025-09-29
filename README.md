@@ -1,2 +1,2 @@
-# first-repos
-First  Project  with Git
+# first-repository
+First  Project  with Git and vs code
